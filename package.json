@@ -1,0 +1,17 @@
+{
+  "name": "blockly-board",
+  "version": "1.0.0",
+  "description": "Blockly with source generator viewer",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [
+    "blockly"
+  ],
+  "author": "R2B Apps",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
